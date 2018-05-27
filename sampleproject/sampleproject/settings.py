@@ -23,6 +23,8 @@ INSTALLED_APPS = (
 
     # project apps
     'demoapp',
+
+    'dm',
 )
 
 MIDDLEWARE = (
